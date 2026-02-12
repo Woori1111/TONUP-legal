@@ -92,4 +92,4 @@ ToneUp(이하 "서비스")는 이용자의 개인정보를 중요하게 생각�
 ## 11. 문의처
 
 - 이메일: dongtandao@naver.com
-- 운영자: TONUP team
+- 운영자: TONUP Team
